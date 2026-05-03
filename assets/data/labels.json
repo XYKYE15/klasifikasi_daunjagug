@@ -1,0 +1,22 @@
+{
+    "hawar": {
+        "title": "Hawar",
+        "description": "Penyakit hawar pada jagung disebabkan oleh jamur yang menyebabkan bercak coklat memanjang pada daun dan dapat menghambat pertumbuhan tanaman.",
+        "color": "red"
+    },
+    "bercak": {
+        "title": "Bercak Daun",
+        "description": "Penyakit bercak daun ditandai dengan munculnya bercak kecil berwarna coklat atau kehitaman yang menyebar pada permukaan daun.",
+        "color": "orange"
+    },
+    "karat": {
+        "title": "Karat Daun",
+        "description": "Penyakit karat ditandai dengan munculnya bintik-bintik berwarna kuning hingga coklat seperti karat pada daun jagung.",
+        "color": "brown"
+    },
+    "sehat": {
+        "title": "Sehat",
+        "description": "Tanaman jagung dalam kondisi sehat tanpa indikasi penyakit dan memiliki pertumbuhan yang optimal.",
+        "color": "green"
+    }
+}
