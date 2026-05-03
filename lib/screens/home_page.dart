@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                   padding: const EdgeInsets.all(16),
                   child: Column(
                     children: [
-                      ImagePreview(imageFile: imageFile),
+                      ImagePreview(imageFile: imageFile, isLoading: isLoading),
                       const SizedBox(height: 20),
                       ResultCard(
                         labelData: labelData,
