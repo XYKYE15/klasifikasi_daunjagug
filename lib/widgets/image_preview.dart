@@ -40,7 +40,6 @@ class ImagePreview extends StatelessWidget {
                 ),
         ),
 
-        // 🔥 LOADING DI ATAS GAMBAR
         if (isLoading)
           Positioned.fill(
             child: Container(

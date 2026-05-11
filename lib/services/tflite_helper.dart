@@ -9,7 +9,9 @@ class TFLiteHelper {
   final List<String> labels = ['bercak', 'sehat', 'hawar', 'karat'];
 
   Future<void> loadModel() async {
-    _interpreter = await Interpreter.fromAsset('assets/model_jagungfix.tflite');
+    _interpreter = await Interpreter.fromAsset(
+      'assets/model_jagungfix1.tflite',
+    );
     _isLoaded = true;
   }
 
