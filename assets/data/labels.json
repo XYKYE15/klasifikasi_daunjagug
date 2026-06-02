@@ -2,21 +2,56 @@
     "hawar": {
         "title": "Hawar",
         "description": "Penyakit hawar pada jagung disebabkan oleh jamur yang menyebabkan bercak coklat memanjang pada daun dan dapat menghambat pertumbuhan tanaman.",
+        "prevention": [
+            "Tanam varietas yang tahan jika tersedia di daerah Anda.",
+            "Tanam varietas jagung yang berbeda untuk menghindari pertanaman tunggal.",
+            "Pastikan lahan tetap bersih.",
+            "Rotasikan dengan tanaman yang bukan inang.",
+            "Bajak dalam-dalam untuk mengubur sisa-sisa tanaman ke dalam tanah.",
+            "Rencanakan pengosongan lahan selama beberapa waktu setelah panen."
+        ],
         "color": "red"
     },
     "bercak": {
         "title": "Bercak Daun",
         "description": "Penyakit bercak daun ditandai dengan munculnya bercak kecil berwarna coklat atau kehitaman yang menyebar pada permukaan daun.",
+        "prevention": [
+            "Cari varietas yang toleran atau tahan yang tersedia di daerah Anda.",
+            "Periksa lahan setiap minggu untuk memantau perkembangan penyakit.",
+            "Beri jarak antar tanaman agar kanopi cepat mengering setelah hujan atau irigasi.",
+            "Letakkan mulsa di tanah agar tanaman tidak menyentuh tanah.",
+            "Kendalikan gulma untuk meningkatkan aliran udara dan mengurangi kelembaban di kanopi.",
+            "Gunakan pupuk dengan kandungan nitrogen dan kalium yang sesuai.",
+            "Hindari bekerja di lahan saat tanaman basah.",
+            "Rotasikan dengan tanaman bukan inang seperti kacang, kedelai, atau bunga matahari.",
+            "Lakukan pengolahan tanah setelah panen untuk mengubur sisa tanaman dan mengurangi populasi patogen."
+        ],
         "color": "orange"
     },
     "karat": {
         "title": "Karat Daun",
         "description": "Penyakit karat ditandai dengan munculnya bintik-bintik berwarna kuning hingga coklat seperti karat pada daun jagung.",
+        "prevention": [
+            "Tanam varietas tahan penyakit yang tersedia di wilayah Anda.",
+            "Lakukan penanaman lebih awal untuk menghindari kondisi infeksi yang optimal.",
+            "Gunakan varietas pendek musim yang matang lebih awal.",
+            "Pantau tanaman secara teratur terutama saat cuaca mendung.",
+            "Lakukan pemupukan seimbang dengan pemberian nitrogen yang terpisah.",
+            "Lakukan rotasi tanaman dengan tanaman yang tidak rentan."
+        ],
         "color": "brown"
     },
     "sehat": {
         "title": "Sehat",
         "description": "Tanaman jagung dalam kondisi sehat tanpa indikasi penyakit dan memiliki pertumbuhan yang optimal.",
+        "prevention": [
+            "Pertahankan pola pemupukan yang seimbang.",
+            "Lakukan pengamatan tanaman secara berkala.",
+            "Jaga kebersihan lahan dari gulma dan sisa tanaman.",
+            "Lakukan penyiraman sesuai kebutuhan tanaman.",
+            "Gunakan benih berkualitas dan varietas unggul.",
+            "Terapkan rotasi tanaman untuk menjaga kesuburan tanah."
+        ],
         "color": "green"
     }
 }
